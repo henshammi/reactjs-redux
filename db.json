@@ -4,28 +4,28 @@
           "id": 1,
           "nama": "Henshammi Adha",
           "alamat": "Cigadung",
-          "umur": 21,
+          "umur": "21",
           "nohp": "0812345"
         },
         {
           "id": 2,
           "nama": "Agung",
           "alamat": "Rancamanyar",
-          "umur": 21,
+          "umur": "21",
           "nohp": "081234567"
         },
         {
           "id": 3,
           "nama": "Dimas",
           "alamat": "Ciwastra",
-          "umur": 21,
+          "umur": "21",
           "nohp": "0812345892245"
         },
         {
           "id": 4,
           "nama": "Alfalery",
           "alamat": "Cimahi",
-          "umur": 21,
+          "umur": "21",
           "nohp": "08145678"
         }
       ]
